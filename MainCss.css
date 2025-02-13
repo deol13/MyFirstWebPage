@@ -38,3 +38,27 @@ div
     flex-direction: column;
     align-items: center;
 }
+#FPS
+{
+    background-color: aqua;
+}
+#SINGLE-PLAYER-RPG
+{
+    background-color: green;
+}
+#MULTIPLAYER-RPG
+{
+    background-color:Red;
+}
+#ARPG
+{
+    background-color: blueviolet;
+}
+#SANDBOX
+{
+    background-color:brown;
+}
+#ROGUELIKE
+{
+    background-color:chartreuse;
+}
